@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-02T14:37:17 EDT" name="Failed suite [Suite]" finished-at="2023-08-02T14:37:23 EDT" duration-ms="6182">
+    <groups>
+    </groups>
+    <test started-at="2023-08-02T14:37:17 EDT" name="Test(failed)" finished-at="2023-08-02T14:37:23 EDT" duration-ms="6182">
+      <class name="com.dhtmlgoodies.qa.pages.test.iGoogleLikeDragDropTest">
+        <test-method is-config="true" signature="initMethod()[pri:0, instance:com.dhtmlgoodies.qa.pages.test.iGoogleLikeDragDropTest@11392934]" started-at="2023-08-02T14:37:17 EDT" name="initMethod" finished-at="2023-08-02T14:37:19 EDT" duration-ms="2622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initMethod -->
+        <test-method signature="verifyDragDrop1()[pri:0, instance:com.dhtmlgoodies.qa.pages.test.iGoogleLikeDragDropTest@11392934]" started-at="2023-08-02T14:37:19 EDT" name="verifyDragDrop1" finished-at="2023-08-02T14:37:20 EDT" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDragDrop1 -->
+        <test-method signature="verifyDragDrop2()[pri:0, instance:com.dhtmlgoodies.qa.pages.test.iGoogleLikeDragDropTest@11392934]" started-at="2023-08-02T14:37:20 EDT" name="verifyDragDrop2" finished-at="2023-08-02T14:37:23 EDT" duration-ms="3260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDragDrop2 -->
+      </class> <!-- com.dhtmlgoodies.qa.pages.test.iGoogleLikeDragDropTest -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>
